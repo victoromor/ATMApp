@@ -1,6 +1,7 @@
 ﻿namespace ATMAPP
 {
-    public class ATM
+    
+    class ATM
     {
 
         const int SAVING_ACCOUNT = 1;
